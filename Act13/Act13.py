@@ -1,7 +1,4 @@
 import tkinter as tk
-import string
-import random
-from tkinter import messagebox
 from CLase13 import *
     
 ventana = tk.Tk()
